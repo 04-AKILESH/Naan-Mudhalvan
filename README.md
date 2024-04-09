@@ -1,7 +1,7 @@
 
 Naan Mudhalvan project
 
-Name : Akilesh n
+Name : Akilesh N
 Reg no. :731121205001
 college : Government College of Engineering,Erode.
 
